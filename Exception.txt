@@ -1,1 +1,6 @@
 Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+
+System.InvalidOperationException: ConsoleApplication1.Student 因其保护级别而不可
+访问。只能处理公共类型。
+System.InvalidOperationException: ConsoleApplication1.Student is inaccessible du
+e to its protection level. Only public types can be processed.
