@@ -1,6 +1,9 @@
 Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
 
-System.InvalidOperationException: ConsoleApplication1.Student 因其保护级别而不可
-访问。只能处理公共类型。
-System.InvalidOperationException: ConsoleApplication1.Student is inaccessible du
-e to its protection level. Only public types can be processed.
+System.InvalidOperationException: 
+ConsoleApplication1.Student 因其保护级别而不可访问。只能处理公共类型。
+ConsoleApplication1.Student is inaccessible due to its protection level. Only public types can be processed.
+
+System.AccessViolationException
+尝试读取或写入受保护的内存。这通常指示其他内存已损坏。
+Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
