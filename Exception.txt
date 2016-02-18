@@ -7,3 +7,7 @@ ConsoleApplication1.Student is inaccessible due to its protection level. Only pu
 System.AccessViolationException
 尝试读取或写入受保护的内存。这通常指示其他内存已损坏。
 Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+
+An unhandled exception of type 'System.Runtime.InteropServices.InvalidComObjectException' occurred in Microsoft.Synchronization.dll
+Additional information: COM 对象与其基础 RCW 分开后就不能再使用。
+Additional information: COM object that has been separated from its underlying RCW cannot be used.
