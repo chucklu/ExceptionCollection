@@ -11,3 +11,6 @@ Attempted to read or write protected memory. This is often an indication that ot
 An unhandled exception of type 'System.Runtime.InteropServices.InvalidComObjectException' occurred in Microsoft.Synchronization.dll
 Additional information: COM 对象与其基础 RCW 分开后就不能再使用。
 Additional information: COM object that has been separated from its underlying RCW cannot be used.
+
+System.Net.Sockets.SocketException (0x80004005): 请求的名称有效，但是找不到请求的类型的数据。
+System.Net.Sockets.SocketException (0x80004005): The requested name is valid, but no data of the requested type was found
